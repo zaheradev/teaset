@@ -26,6 +26,7 @@ import Wheel from './components/Wheel/Wheel';
 
 import TopView from './components/Overlay/TopView';
 import Overlay from './components/Overlay/Overlay';
+import OverlayPopoverView from './components/Overlay/OverlayPopoverView'
 import Toast from './components/Toast/Toast';
 import ActionSheet from './components/ActionSheet/ActionSheet';
 import ActionPopover from './components/ActionPopover/ActionPopover';
@@ -67,6 +68,7 @@ var Teaset = {
 
   TopView,
   Overlay,
+  OverlayPopoverView,
   Toast,
   ActionSheet,
   ActionPopover,
